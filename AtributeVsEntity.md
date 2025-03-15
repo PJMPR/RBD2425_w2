@@ -42,10 +42,15 @@ Jeżeli dany element **często nie występuje** lub jego wartość może być **
 
 ## 📌 Podsumowanie
 Decyzja między modelowaniem elementu jako **atrybutu** czy **encji** zależy od:
+
 ✅ **Znaczenia elementu** dla bazy danych,
+
 ✅ **Kompleksowości struktury** elementu,
+
 ✅ **Możliwości wielokrotnego występowania**, 
+
 ✅ **Częstości pustych lub nieznanych wartości**.
+
 
 Dzięki zastosowaniu tych kryteriów można zaprojektować **bardziej efektywną i elastyczną** strukturę bazy danych. 🚀
 
