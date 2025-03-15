@@ -59,5 +59,3 @@ Ostatni etap obejmuje **implementację rzeczywistej bazy danych** na podstawie s
 
 📌 **Podsumowanie**
 ERD jest kluczowym narzędziem do projektowania baz danych, pozwalającym na wizualne przedstawienie encji, ich atrybutów i związków pomiędzy nimi. Proces projektowania bazy obejmuje analizę wymagań, modelowanie logiczne oraz fizyczne, które prowadzą do finalnej implementacji systemu.
-
-🚀 **Tworzenie diagramów ERD to kluczowy krok w skutecznym projektowaniu baz danych!**
